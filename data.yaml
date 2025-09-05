@@ -1,0 +1,6 @@
+train:  data/Promise12MSBench/train/images
+val: data/Promise12MSBench/val/images
+
+nc: 1
+names: ['abnormal']
+
